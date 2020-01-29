@@ -3,7 +3,6 @@
 
 import random
 
-#function to display current board status
 def display_board(board):
     '''
         Function to print current board status
